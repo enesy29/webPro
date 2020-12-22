@@ -9,7 +9,6 @@ Tasarlayan : Muhammed Enes YAKUT - 1030520558
 Kullanılan Araclar : 
 HTML
 CSS
-JavaScript
 ---------------------------------------------------------------------
 Kullanılan Yazılımlar : 
 Brackets
